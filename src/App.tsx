@@ -1,16 +1,13 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+
 import "./App.css";
 import Bell from "../img/Bell2.png";
 import tree from "../img/chritmas-wreath-Photoroom.png";
 import santa from "../img/santa.png";
 import deer from "../img/deer.png";
-import cookie from "../img/cookie.png";
+
 import ranbow from "../img/ป้ายห้อย-removebg-preview.png";
-import candy from "../img/candy-cane.png";
-import sock from "../img/christmas-sock.png";
-import sleigh from "../img/sleigh.png";
+
 import gifts from "../img/gifts.png";
 import ball from "../img/christmas-ball.png";
 import bauble from "../img/bauble.png";
